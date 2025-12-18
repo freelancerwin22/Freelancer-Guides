@@ -184,7 +184,7 @@ The goal is **consistency and reliability**, not complexity
 Availability and results vary by region and platform.  
 Examples of providers people mention for residential or ISP-style IPs include:
 
-- [NodeMaven](https://nodemaven.com)
+- [NodeMaven](https://nodemaven.com/?utm_source=github&utm_medium=reddit&utm_campaign=freelancers)
 - Smartproxy
 - [Bright Data](https://brightdata.com/)
 - Oxylabs
@@ -192,7 +192,7 @@ Examples of providers people mention for residential or ISP-style IPs include:
 
 Some users prefer providers offering **long-session residential or ISP IPs** for remote work and AI task platforms, especially when managing accounts over time.
 
-## Why Remote Workers Mention [NodeMaven](https://nodemaven.com)
+## Why Remote Workers Mention [NodeMaven](https://nodemaven.com/?utm_source=github&utm_medium=reddit&utm_campaign=freelancers)
 
 In discussions around remote work with my colleagues and in this subreddit as well,, some of them mention **NodeMaven** as one of the providers they use for long-term setups.
 
