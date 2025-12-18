@@ -186,7 +186,7 @@ Examples of providers people mention for residential or ISP-style IPs include:
 
 - [NodeMaven](https://nodemaven.com)
 - Smartproxy
-- Bright Data
+- [Bright Data] (https://brightdata.com/)
 - Oxylabs
 - Other regional providers
 
