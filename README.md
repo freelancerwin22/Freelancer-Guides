@@ -1,4 +1,4 @@
-# Remote Work Access & Stability Notes (2025)
+# Remote Work Access & Stability Notes (2026)
 
 This guide is for you who are doing **remote work, AI data tasks, and online gigs** and mayboe experience:
 - Tasks or projects appearing inconsistently
