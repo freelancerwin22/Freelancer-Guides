@@ -185,9 +185,9 @@ Availability and results vary by region and platform.
 Examples of providers people mention for residential or ISP-style IPs include:
 
 - [NodeMaven](https://nodemaven.com/?utm_source=github&utm_medium=reddit&utm_campaign=freelancers)
-- Smartproxy
+- [Smartproxy](https://decodo.com/)
 - [Bright Data](https://brightdata.com/)
-- Oxylabs
+- [Oxylabs](https://oxylabs.io/)
 - Other regional providers
 
 Some users prefer providers offering **long-session residential or ISP IPs** for remote work and AI task platforms, especially when managing accounts over time.
@@ -199,16 +199,12 @@ In discussions around remote work with my colleagues and in this subreddit as we
 I think it would be really good for you as well because you get:
 
 - **Residential and ISP-style IPs:**  
-  Used in scenarios where platforms place more trust in residential networks compared to datacenter IPs.
+  They are used in scenarios where platforms place more trust in residential networks compared to datacenter IPs
 
 - **Long session duration:**  
   IPs can remain the same for extended periods, which helps with account and session consistency on platforms that evaluate trust over time.
 
-- **Stable connections for daily work:**  
-  Useful for workflows that involve logging in regularly rather than rotating environments frequently.
-
 - **Multi-account friendly structure:**  
   Some users managing multiple legitimate accounts prefer setups where each account can maintain its own consistent environment.
 
-- **Predictable performance:**  
-  Consistent speed and uptime reduce interruptions during longer task sessions.
+So far they have been the best recommendation I could have gotten for this tool and I strongly recommend it.
